@@ -1,0 +1,58 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Menlo, Consolas, Monaco, "Liberation Mono", "Lucida Console", monospace;
+  display: grid;
+  justify-content: center;
+  align-content: start;
+  background-color: #ffffff;
+  color: #000000;
+  line-height: 1.4;
+}
+
+main {
+  max-width: 740px;
+  width: 100vw;
+  padding: 20px 16px;
+}
+
+ul {
+  margin-top: 0px;
+  padding-left: 40px;
+}
+
+a {
+  color: rgb(25, 118, 210);
+  text-decoration: underline;
+}
+
+.logo {
+  height: 80px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: block;
+}
+
+h3, h4 {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.17em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 1.0em;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}

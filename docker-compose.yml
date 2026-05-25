@@ -1,0 +1,12 @@
+services:
+  web:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+    # Runs the container process with the same UID/GID as the host user to prevent root-owned files
+    user: "1000:1000"
+    environment:
+      - JEKYLL_ENV=development
