@@ -5,7 +5,7 @@ layout: default
 <main markdown="1">
 <img src="/assets/images/logo.png" class="logo" alt="BUP CoPC CTF Logo">
 
-### BUP Compute Programming Club
+### BUP Computer Programming Club
 
 A club led by the students of Bangladesh University of Professionals-BUP, Dhaka, Bangladesh 🇧🇩.
 
