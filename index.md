@@ -11,6 +11,10 @@ A club led by the students of Bangladesh University of Professionals-BUP, Dhaka,
 
 ### Past events
 
+**BUP CSE Fest 2026**
+
+- [Qualifiers](https://2026-quals.ctf.bupcopc.tech)
+
 **Salami CP-CTF 2026**
 
 - [Scoreboard](https://salami-cp.ctf.bupcopc.tech/)
